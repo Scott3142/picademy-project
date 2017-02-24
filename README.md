@@ -10,14 +10,14 @@
   -------------
 
   Essential hardware:
-    Raspberry Pi + peripherals (tested on model 3B)
-    Picamera
-    PIR sensor
-    Jumper cables
+    - Raspberry Pi + peripherals (tested on model 3B)
+    - Picamera
+    - PIR sensor
+    - Jumper cables
 
   Essential software:
-    VLC player running on both the RPi and the client device
-    tmux
+    - VLC player running on both the RPi and the client device
+    - tmux
 
   The file motionsense.pdf shows the wiring required to connect the PIR sensor. 
   
@@ -26,11 +26,13 @@
 
   Before you start:
      - Ensure that your Raspberry Pi is loaded with the latest version of Raspbian from [here](https://www.raspberrypi.org/downloads/).
-     - Ensure that your Picamera is connected and working using instructions [here](https://www.raspberrypi.org/learning/getting-started-with-picamera/).     - Follow the documentation in motionsense.pdf to connect the PIR sensor to you Pi. 
+     - Ensure that your Picamera is connected and working using instructions [here](https://www.raspberrypi.org/learning/getting-started-with-picamera/).     
+     - Follow the documentation in motionsense.pdf to connect the PIR sensor to you Pi. 
 
   On the Pi:
     ```
     sudo apt-get update
+    
     ```
 
 
@@ -39,7 +41,7 @@
     ```  
 
   On the client device:
-    Install vlc - instructions available [here](https://vlc-media-player.en.softonic.com/)
+    - Install vlc - instructions available [here](https://vlc-media-player.en.softonic.com/).
     
 
   Viewing the stream
