@@ -107,7 +107,7 @@
   Contacts
   --------
 
-  Any questions or comments about this code can be directed to @ScottM3142
+  Any questions or comments about this code can be directed to [\@ScottM3142](https://twitter.com/ScottM3142)
 
 
   Acknowledgements
