@@ -33,12 +33,14 @@
      - Follow the documentation in motionsense.pdf to connect the PIR sensor to you Pi. 
 
   On the Pi:
+
     ```sudo apt-get update```
 
 
     ```sudo apt-get install tmux vlc```  
 
   On the client device:
+
     - Install vlc - instructions available [here](https://vlc-media-player.en.softonic.com/).
     
 
