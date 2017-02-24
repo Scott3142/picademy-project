@@ -60,7 +60,7 @@
 
   - On a client device:
 
-      - On the Pi:
+      1. On the Pi:
 
         1. Find your local network IP address by running 
            ```
@@ -68,7 +68,7 @@
            ```
            in a Terminal. (More instructions available [here](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-3-network-setup/finding-your-pis-ip-address).)
 
-      - On the client device:
+      2. On the client device:
 
           1. Make sure your device is attached to the same network as the Pi
           2. Open VLC
