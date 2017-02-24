@@ -62,6 +62,9 @@
   - You can start and stop the stream without the motion detection by running:    
 
     ```cd picademy-project```
+
+
+    ```./startstream```
     
 
   - To activate the motion detection, run
