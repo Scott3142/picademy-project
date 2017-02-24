@@ -67,6 +67,9 @@
     ```bash startstream.sh```
 
 
+    ```bash stopstream.sh```
+
+
   - To activate the motion detection, run
 
     ```cd picademy-project```
