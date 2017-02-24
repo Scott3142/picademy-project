@@ -16,6 +16,9 @@
 
     - Raspberry Pi + peripherals (tested on model 3B)
     - Picamera
+
+  - Optional hardware:
+
     - PIR sensor
     - Jumper cables
 
@@ -42,12 +45,33 @@
     ```sudo apt-get update```
 
 
-    ```sudo apt-get install tmux vlc```  
+    ```sudo apt-get install tmux vlc git```
+
+
+    ```git clone git@github.com:Scott3142/picademy-project.git```  
 
   - On the client device:
 
     - Install vlc - instructions available [here](https://vlc-media-player.en.softonic.com/).
     
+
+  Running the script
+  ------------
+
+  - You can start and stop the stream without the motion detection by running:
+    
+    ```cd picademy-project```
+    
+    ```./startstream```
+
+    ```./stopstream```
+
+  - To activate the motion detection, run
+
+    ```cd picademy-project```
+
+    ```python3 motionsense.py```
+
 
   Viewing the stream
   ------------
