@@ -62,6 +62,7 @@
     
     ```cd picademy-project```
 
+    ```./startstream```
     
     ```./stopstream```
 
