@@ -61,8 +61,6 @@
 
   - You can start and stop the stream without the motion detection by running:    
 
-    ```./startstream```
-    
 
   - To activate the motion detection, run
 
