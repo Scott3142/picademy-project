@@ -66,7 +66,7 @@
            ```
            ifconfig
            ```
-           in a Terminal. (More instructions available [here](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-3-network-setup/finding-your-pis-ip-address).)
+           in a terminal. (More instructions available [here](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-3-network-setup/finding-your-pis-ip-address).)
 
       2. On the client device:
 
