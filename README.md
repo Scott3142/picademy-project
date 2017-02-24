@@ -50,6 +50,7 @@
 
     ```git clone git@github.com:Scott3142/picademy-project.git```  
 
+
   - On the client device:
 
     - Install vlc - instructions available [here](https://vlc-media-player.en.softonic.com/).
@@ -58,10 +59,7 @@
   Running the script
   ------------
 
-  - You can start and stop the stream without the motion detection by running:
-    
-
-    ```cd picademy-project```
+  - You can start and stop the stream without the motion detection by running:    
 
 
     ```./startstream```
