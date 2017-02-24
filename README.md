@@ -4,10 +4,13 @@
   What is it?
   -----------
 
+
   This is a project completed during picademy, which uses a PIR sensor to detect motion and start and stop a http stream via a picamera. 
+
 
   What will you need?
   -------------
+
 
   - Essential hardware:
 
@@ -22,9 +25,11 @@
     - tmux
 
   - The file motionsense.pdf shows the wiring required to connect the PIR sensor. 
+
   
   Installation
   ------------
+
 
   - Before you start:
 
@@ -61,7 +66,7 @@
            ```
            ifconfig
            ```
-           in a Terminal. (More instructions available [here](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-3-network-setup/finding-your-pis-ip-address).
+           in a Terminal. (More instructions available [here](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-3-network-setup/finding-your-pis-ip-address).)
 
       - On the client device:
 
