@@ -63,9 +63,6 @@
     ```cd picademy-project```
 
     
-    ```./startstream```
-
-
     ```./stopstream```
 
   - To activate the motion detection, run
