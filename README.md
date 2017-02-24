@@ -69,3 +69,9 @@
   --------
 
   Any questions or comments about this code can be directed to @ScottM3142
+
+
+  Acknowledgements
+  --------
+
+  Adapted from a tutorial here - http://www.raspberry-projects.com/pi/pi-hardware/raspberry-pi-camera/streaming-video-using-vlc-player
